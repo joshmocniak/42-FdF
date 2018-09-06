@@ -1,0 +1,6 @@
+[submodule "42-libft"]
+	path = 42-libft
+	url = https://github.com/joshmocniak/42-libft.git
+[submodule "42-get_next_line"]
+	path = 42-get_next_line
+	url = https://github.com/joshmocniak/42-get_next_line.git
