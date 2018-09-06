@@ -8,4 +8,5 @@ Expected format:
 	Horizontal position of value corresponds to abscissa.
 	Vertical position of value corresponds to ordinate.
 	Integer value corresponds to altitude.
-
+	
+![alt text](screenshot01.png)
