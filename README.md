@@ -1,7 +1,6 @@
 # 42-FdF
 
-Landscape rendering project using 42's miniLibX.
-Takes a file describing the wireframe as a parameter.
+Isometric wireframe landscape viewer.
 
 ![alt text](screenshot01.png)
 
@@ -19,6 +18,13 @@ Usage
 -----
 
 `./fdf <map>`  
+
+| Controls |  |
+| :- | :- |
+| ESC | Exit program |
+| p | Change projection |
+| g | Change gradient |
+| UP, DOWN | Scale z-axis |
 
 Various maps are found in the test_maps directory.  You can also make your own by creating a text file formatted as described below.
 
